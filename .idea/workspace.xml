@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b66ec96c-367f-4cc0-8b6a-ad27dea585f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="16">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -25,15 +26,31 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="git comit" />
-      <command text="git push" />
+      <command text="git commit -m test second branch" />
+      <command text="git commit -m &quot;test second branch&quot;" />
+      <command text="git branch master" />
+      <command text="git branch third" />
+      <command text="git checkout master" />
+      <command text="git checkout third" />
+      <command text="git commit text.txt -m &quot;test third&quot;" />
+      <command text="git commit test.txt -m &quot;test third&quot;" />
+      <command text="git checkout second" />
+      <command text="git branch from_local" />
+      <command text="git checkout master" />
+      <command text="git checkout third" />
+      <command text="git commit test.txt -m &quot;test new&quot;" />
+      <command text="git checkout third" />
       <command text="git fetch" />
-      <command text="git comit test.txt" />
-      <command text="git commit test.txt" />
-      <command text="git commit test.txt -m test" />
-      <command text="git push" />
+      <command text="git checkout from_local" />
       <command text="git fetch" />
       <command text="git checkout second" />
+      <command text="git fetch" />
+      <command text="git checkout third" />
+      <command text="git fetch" />
+      <command text="git commit -m &quot;11&quot;" />
+      <command text="git commit test.txt -m 'fff'" />
+      <command text="git checkout second" />
+      <command text="git fetch" />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
@@ -119,6 +136,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -145,24 +163,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555444043336</updated>
-      <workItem from="1555444044497" duration="542000" />
+      <workItem from="1555444044497" duration="1875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="542000" />
+    <option name="totallyTimeSpent" value="1875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="969" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.329849" />
-      <window_info active="true" anchor="bottom" id="Command Line Tools Console" visible="true" weight="0.329849" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.329849" />
+      <window_info anchor="bottom" id="Command Line Tools Console" weight="0.329849" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -210,8 +227,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="16">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
